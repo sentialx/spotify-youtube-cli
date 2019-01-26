@@ -8,11 +8,12 @@ $ npm install spotify-youtube-cli
 ```
 
 # Usage
-Use
+To open an interactive CLI, type
 ```
 $ spotifyt
 ```
-to open an interactive CLI or just use commands given below.
+
+Alternatively, you can just use one of the commands given below, example usage:
 ```
 $ spotifyt <command> [...args]
 ```
