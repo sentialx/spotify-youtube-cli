@@ -18,5 +18,5 @@ $ spotifyt <command> [...args]
 ```
 
 ### Available commands
-| Command       | Description   |
-| ------------- | ------------- |
+| Command       | Description   | Arguments     |
+| ------------- | ------------- | ------------- |
